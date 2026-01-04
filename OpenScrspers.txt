@@ -718,7 +718,7 @@
     "base_url": "https://glodls.to",
     "fallback_urls": [
       "https://gtdb.to",
-      "https://glotorrents.unblockit.uno"
+  "https://glotorrents.unblockit.uno"
     ],
     "response_type": "text",
     "separator": "+",
@@ -768,8 +768,9 @@
     ],
     "base_url": "https://www.magnetdl.com",
     "fallback_urls": [
-      "https://magnetdl.unblockit.uno",
-      "https://torrentquest.com"
+"https://magnetdl.pro",
+"https://magnetdl.unblockit.uno",
+"https://torrentquest.com"
     ],
     "response_type": "text",
     "separator": "-",
