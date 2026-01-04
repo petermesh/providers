@@ -184,7 +184,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://yts.mx",
+    "base_url": "https://yts.lt",
     "fallback_urls": [
       "https://yts.pm",
       "https://yts.unblocked.lat"
