@@ -766,9 +766,9 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://www.magnetdl.com",
+    "base_url": "https://www.magnetdl.pro",
     "fallback_urls": [
-"https://magnetdl.pro",
+"https://magnetdl.com",
 "https://magnetdl.unblockit.uno",
 "https://torrentquest.com"
     ],
