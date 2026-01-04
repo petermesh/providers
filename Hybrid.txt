@@ -563,7 +563,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://torrentgalaxy.to",
+    "base_url": "https://torrentgalaxy.one",
     "fallback_urls": [
       "https://torrentgalaxy.mx",
       "https://torrentgalaxy.su",
